@@ -1,0 +1,16 @@
+{
+  "name": "sass_xampp_sync",
+  "version": "1.0.0",
+  "description": "Boiler plate for automatically compiling SASS and updating the browser on an Xampp local server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Toby Ahearn",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "browser-sync": "^2.24.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
